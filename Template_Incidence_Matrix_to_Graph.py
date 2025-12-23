@@ -14,6 +14,7 @@ M = [[1,-1,0,0,0],[1,0,-1,0,0],[1,0,0,-1,0],[0,1,-1,0,0],[0,1,0,-1,0], [0,1,0,0,
 example_row_1 = [0,0,0,0,0,1,0,0,-1]
 example_row_2 = [0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,1]
 
+
 # A helpful piece of code:
 # The index method return the index number of a element of a list
 
